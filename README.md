@@ -1,2 +1,3 @@
-# connectycube-server-api
-ConnectyCube Server API related repository https://developers.connectycube.com/server/
+# ConnectyCube Server API related repository
+
+Server API documentation https://developers.connectycube.com/server/
